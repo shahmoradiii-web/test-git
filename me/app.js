@@ -6,3 +6,6 @@ let phone = '091232148'
 
 
 let username = 'ali'
+
+
+let email = 'example@gmail.com'
