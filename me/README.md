@@ -47,4 +47,4 @@ ___
 
 ## images :
 
-![github-images](https://www.google.com/imgres?q=github%20picture&imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fassets%2Fsocial-2deb6d7d43e7.jpg&imgrefurl=https%3A%2F%2Fgithub.com%2Fexplore&docid=NypzGhINctkl5M&tbnid=2bHnvaT4iygQ3M&vet=12ahUKEwiyzvuEwqqLAxWt9rsIHbMUM2gQM3oECGwQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwiyzvuEwqqLAxWt9rsIHbMUM2gQM3oECGwQAA)
+![github-images](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
