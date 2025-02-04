@@ -47,4 +47,4 @@ ___
 
 ## images :
 
-![github-images](https://www.google.com/imgres?q=github%20picture%20200x200&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F55272977%3Fs%3D200%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Fgithub-uz&docid=SPTP2Ech7KstpM&tbnid=FB2GZ8KBPiNv2M&vet=12ahUKEwjfxMmXsaqLAxXUBNsEHcARCIsQM3oECE4QAA..i&w=200&h=200&hcb=2&ved=2ahUKEwjfxMmXsaqLAxXUBNsEHcARCIsQM3oECE4QAA)
+![github-images](https://www.google.com/imgres?q=github%20picture&imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fassets%2Fsocial-2deb6d7d43e7.jpg&imgrefurl=https%3A%2F%2Fgithub.com%2Fexplore&docid=NypzGhINctkl5M&tbnid=2bHnvaT4iygQ3M&vet=12ahUKEwiyzvuEwqqLAxWt9rsIHbMUM2gQM3oECGwQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwiyzvuEwqqLAxWt9rsIHbMUM2gQM3oECGwQAA)
