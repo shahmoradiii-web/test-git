@@ -9,3 +9,6 @@ let username = 'ali'
 
 
 let email = 'example@gmail.com'
+
+
+let gender = 'women'
